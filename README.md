@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devansh Thard
-- 👀 I’m interested in ...python programming
-- 🌱 I’m currently learning ...machine learning in python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python programming
+- 🌱 I’m currently learning machine learning in python
+- 💞️ I’m looking to collaborate on any python related projects
 - 📫 How to reach me ...email- devanshthard2000@gmail.com
 
 <!---
