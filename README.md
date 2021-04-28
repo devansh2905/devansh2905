@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devansh2905
+- 👋 Hi, I’m Devansh Thard
 - 👀 I’m interested in ...python programming
 - 🌱 I’m currently learning ...machine learning in python
 - 💞️ I’m looking to collaborate on ...
